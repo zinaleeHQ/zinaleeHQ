@@ -16,10 +16,10 @@ Each project shows a specific decision a PM must make that an AI cannot make for
 
 | Project | The PM Judgment Call |
 |---------|---------------------|
-| 🔷 Horizon | Read the WSJF scores and override one — because numbers don't capture political reality |
-| 🔶 Clarity | Approve a technically correct SOP that 2,000 skeptical clinicians will actually reject |
-| 🔹 Signal | Read five AI-drafted communications as the *recipient*, not the sender |
-| 📊 Vista | Make every access boundary decision knowing it's the only thing standing between data and misreading |
+| 🔷 Horizon | Read the WSJF scores and override what doesn't work — because numbers don't capture political reality |
+| 🔶 Clarity | Work with a technically correct SOP that 2,000 skeptical clinicians will actually reject |
+| 🔹 Signal | Read five AI-drafted communications as the *recipient*, not the sender, to avoid crossed wires |
+| 📊 Vista | Make every access boundary decision knowing the human is the only thing standing between data and misreading |
 
 The AI handles the analysis. The PM handles the accountability.
 
