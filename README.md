@@ -1,10 +1,27 @@
 # Hi, I'm Zina 👋
 
-### Enterprise Product Manager · AI-Augmented Operations · Healthcare Technology
+### Product Manager · AI-Augmented Healthcare Operations · Technology
 
 I'm a strategic Product Manager with experience delivering technology solutions at the intersection of clinical operations, data systems, and enterprise-scale process improvement. My background spans federal contracting, healthcare IT, and cross-functional product delivery in complex, compliance-driven environments.
 
 This portfolio demonstrates how I use AI as a **managed strategic resource** — not a shortcut, but a force multiplier for the kind of rigorous, data-driven PM work that creates measurable business value.
+
+---
+
+## 🎯 What Is This Portfolio Actually Demonstrating?
+
+This isn't a portfolio of technical skills. It's a portfolio of **PM judgment under realistic constraints**.
+
+Each project shows a specific decision a PM must make that an AI cannot make for them:
+
+| Project | The PM Judgment Call |
+|---------|---------------------|
+| 🔷 Horizon | Read the WSJF scores and override one — because numbers don't capture political reality |
+| 🔶 Clarity | Approve a technically correct SOP that 2,000 skeptical clinicians will actually reject |
+| 🔹 Signal | Read five AI-drafted communications as the *recipient*, not the sender |
+| 📊 Vista | Make every access boundary decision knowing it's the only thing standing between data and misreading |
+
+The AI handles the analysis. The PM handles the accountability.
 
 ---
 
@@ -47,9 +64,6 @@ A demonstration of AI-assisted stakeholder communication intelligence. A single 
 
 ---
 
-
----
-
 ### 📊 Project Vista — The Operational Intelligence Dashboard
 > *When every stakeholder can pull their own report, the PM's job becomes designing the system that keeps them from misreading it*
 
@@ -80,4 +94,16 @@ The AI tools used in this portfolio were directed, structured, and validated by 
 
 ---
 
-*Portfolio built June 2026 · Open to enterprise PM opportunities in healthcare operations and AI-augmented product delivery*
+## 🚀 Want to Run These Prompts Yourself?
+
+Each project has a live GitHub Pages landing page with a one-click **Copy Prompt** button. Paste into Claude, GPT-4, or Gemini — no setup required.
+
+| Project | GitHub Pages |
+|---------|-------------|
+| 🔶 Project Clarity | [zinaleeHQ.github.io/project-clarity](https://zinaleeHQ.github.io/project-clarity/) |
+| 🔹 Project Signal | [zinaleeHQ.github.io/project-signal](https://zinaleeHQ.github.io/project-signal/) |
+| 📊 Project Vista | [zinaleeHQ.github.io/project-vista](https://zinaleeHQ.github.io/project-vista/) |
+
+Each prompt pauses at a PM judgment checkpoint and asks you to review before proceeding. That pause is the point.
+
+*Portfolio built June 2026 · Open to PM opportunities in healthcare operations and AI-augmented product delivery*
