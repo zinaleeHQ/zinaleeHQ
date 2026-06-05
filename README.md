@@ -92,6 +92,8 @@ These projects are simulations built on publicly available information about rea
 
 The AI tools used in this portfolio were directed, structured, and validated by me as the PM. Every framework choice, constraint definition, and output decision reflects deliberate product thinking — the AI is the engine; I am the architect.
 
+For more information on how I worked on each project, look at the PROCESS file, found at the top of each project's README page.
+
 ---
 
 ## 🚀 Want to Run These Prompts Yourself?
