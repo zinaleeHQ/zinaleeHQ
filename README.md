@@ -10,7 +10,7 @@ This portfolio demonstrates how I use AI as a **managed strategic resource** —
 
 ## 🗂️ Portfolio Projects
 
-Each project below is a fully documented AI-assisted case study, grounded in the real-world technology architecture of a modern multi-site healthcare enterprise. Together, they tell a single end-to-end story: from prioritization to process optimization to stakeholder communication.
+Each project below is a fully documented AI-assisted case study, grounded in the real-world technology architecture of a modern multi-site healthcare enterprise. Together, they tell a single end-to-end story: from prioritization to process optimization to stakeholder communication to operational visibility.
 
 ---
 
@@ -46,6 +46,18 @@ A demonstration of AI-assisted stakeholder communication intelligence. A single 
 📁 [View Project Signal →](https://github.com/zinaleeHQ/project-signal)
 
 ---
+
+
+---
+
+### 📊 Project Vista — The Operational Intelligence Dashboard
+> *When every stakeholder can pull their own report, the PM's job becomes designing the system that keeps them from misreading it*
+
+The capstone of a four-project portfolio. An AI-assisted KPI governance and dashboard design framework connecting the outputs of all three prior projects into a single operational visibility layer — with audience-filtered access, embedded context for red metrics, and a governance model that makes self-service data trustworthy over time.
+
+**Methodology:** KPI Governance · Data Architecture · Stakeholder Intelligence · Change Management
+
+🔗 [View Project Vista →](https://github.com/zinaleeHQ/project-vista)
 
 ## 🛠️ Skills & Tools
 
