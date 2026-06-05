@@ -1,6 +1,6 @@
 # Hi, I'm Zina 👋
 
-### Product Manager · AI-Augmented Healthcare Operations · Technology
+### Product Manager · AI-Augmented Operations · Technology
 
 I'm a strategic Product Manager with experience delivering technology solutions at the intersection of clinical operations, data systems, and enterprise-scale process improvement. My background spans federal contracting, healthcare IT, and cross-functional product delivery in complex, compliance-driven environments.
 
@@ -45,7 +45,7 @@ A simulation of an AI-assisted WSJF (Weighted Shortest Job First) prioritization
 ### 🔶 Project Clarity — Clinical Workflow Optimization Blueprint
 > *Turning 200+ inconsistent workarounds into one standardized, AI-optimized SOP*
 
-A Lean DMAIC process analysis of the manual charge entry workflow affecting 2,000+ distributed hospitalists. An AI engine classifies current-state friction against the Lean 8 Wastes framework, generates a future-state value stream map, and produces a deployment-ready SOP — all within a strict clinical safety and compliance guardrail set.
+A Lean DMAIC process analysis of the manual charge entry workflow affecting 2,000+ distributed hospitalists. An AI engine classifies current-state friction against the Lean 8 Wastes framework, generates a future-state value stream map, and produces a deployment-ready SOP — all within a strict clinical safety and compliance guardrail set. But will the hospitalists actually *use* the workflow?
 
 **Methodology:** Lean · DMAIC · Value Stream Mapping · Change Management · Prompt Engineering
 
