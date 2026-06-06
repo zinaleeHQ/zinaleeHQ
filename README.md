@@ -4,7 +4,7 @@
 
 I'm a strategic Product Manager with experience delivering technology solutions at the intersection of clinical operations, data systems, and enterprise-scale process improvement. My background spans federal contracting, healthcare IT, and cross-functional product delivery in complex, compliance-driven environments.
 
-This portfolio demonstrates how I use AI as a **managed strategic resource** — not a shortcut, but a force multiplier for the kind of rigorous, data-driven PM work that creates measurable business value. AI can be applied across core product management functions, with a focus on decision-making, risk awareness, and human-in-the-loop workflows, in the areas of prioritization, workflows, stakeholder communication, and operational intelligence.
+This portfolio demonstrates how I use AI as a **managed strategic resource** — not a shortcut, but a force multiplier for the kind of rigorous, data-driven PM work that creates measurable business value. AI can be applied across core product management functions, with a focus on decision-making, risk awareness, and human-in-the-loop workflows. For this portfolio, we are working in the areas of prioritization, workflows, stakeholder communication, and operational intelligence.
 
 ---
 
