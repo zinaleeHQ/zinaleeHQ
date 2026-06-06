@@ -109,4 +109,4 @@ Each project has a live GitHub Pages landing page with a one-click **Copy Prompt
 
 Each prompt pauses at a PM judgment checkpoint and asks you to review before proceeding. That pause is the point.
 
-*Portfolio built June 2026 · Open to PM opportunities in healthcare operations and AI-augmented product delivery*
+*Portfolio built June 2026 · Open to PM opportunities in healthcare and other operations and AI-augmented product delivery*
