@@ -8,6 +8,14 @@ This portfolio demonstrates how I use AI as a **managed strategic resource** —
 
 ---
 
+## How to Navigate This Portfolio
+
+**New to GitHub?** No account needed — click any blue filename to read it in your browser. In each project, read README first, then PROCESS.md, and then, if you'd like to run the prompt yourself, use the links to copy the prompt, found near the bottom of each project's page.
+
+**Evaluating PM judgment?** Skip the AI output. Look at the decision each project requires *after* the AI finishes — that's what this portfolio is showing.
+
+---
+
 ## 🎯 What Is This Portfolio Actually Demonstrating?
 
 This isn't a portfolio of technical skills. It's a portfolio of **PM judgment under realistic constraints**. AI can accelerate workflow, but requires human intervention and knowledge, ensuring alignment with real-world constraints and avoiding over-reliance on generated outputs.
