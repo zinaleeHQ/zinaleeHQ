@@ -1,4 +1,4 @@
-# Methodology Notes Working Across Multiple AI Models
+# Methodology Notes
 
 *Zina Lee, Product Manager*
 
