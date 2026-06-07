@@ -20,3 +20,16 @@ Working across these models allows for:
 - Better-informed decisions about which outputs to trust and why
 
 This approach reflects how AI is used in real-world environments: not as a single source of truth, but as a system that requires evaluation, triangulation, and human judgment — especially in complex and regulated domains like healthcare.
+
+---
+
+## Scope and Application
+
+This portfolio is built around healthcare IT scenarios, but the frameworks, methodologies, and workflows are designed to be broadly applicable across industries and organizational contexts.
+
+The four projects reflect core PM functions — prioritization, process design, stakeholder communication, and operational visibility — each demonstrating how AI can be applied in a structured, repeatable way while accounting for real-world constraints: risk, bias, and the need for human oversight.
+
+A deliberate design choice throughout is showing where *not* to use AI. Many of the analytical tasks here could be further automated. The judgment layer (the pause points, the override decisions, the access boundary calls) is left 
+to the PM intentionally.
+
+AI bias and governance is the next layer I plan to add to this work. Each project has decision points where model bias could influence real operational or financial outcomes. That analysis is in progress.
