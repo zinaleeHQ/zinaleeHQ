@@ -1,8 +1,10 @@
-# Methodology Note: Working Across Multiple AI Models
+# Methodology Notes Working Across Multiple AI Models
 
 *Zina Lee, Product Manager*
 
 ---
+
+## Working Across Multiple AI Models
 
 In developing these projects, I worked across multiple AI systems — Claude, GPT, and Gemini — to evaluate how different models interpret the same product problems.
 
