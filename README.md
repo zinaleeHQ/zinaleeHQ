@@ -4,7 +4,7 @@
 
 I'm a strategic Product Manager with experience delivering technology solutions at the intersection of operations, data systems, and enterprise-scale process improvement. My background spans federal contracting, healthcare IT, and cross-functional product delivery in complex, compliance-driven environments.
 
-This portfolio demonstrates how I use AI as a **managed strategic resource** — not a shortcut, but a force multiplier for the kind of rigorous, data-driven PM work that creates measurable business value. AI can be applied across core product management functions, with a focus on decision-making, risk awareness, and human-in-the-loop workflows. For this portfolio, we are working in the areas of prioritization, workflows, stakeholder communication, and operational intelligence.
+This cast study portfolio demonstrates how I use AI as a **managed strategic resource** — not a shortcut, but a force multiplier for the kind of rigorous, data-driven PM work that creates measurable business value. AI can be applied across core product management functions, with a focus on decision-making, risk awareness, and human-in-the-loop workflows. For this portfolio, we are working in the areas of prioritization, workflows, stakeholder communication, and operational intelligence.
 
 ---
 
@@ -12,7 +12,7 @@ This portfolio demonstrates how I use AI as a **managed strategic resource** —
 
 **New to GitHub?** No account needed — click any blue filename to read it in your browser. In each project, read README first, then PROCESS.md, and then, if you'd like to run the prompt yourself, use the links to copy the prompt, found near the bottom of each project's page.
 
-**Evaluating PM judgment?** Skip the AI output. Look at the decision each project requires *after* the AI finishes — that's what this portfolio is showing.
+**Evaluating PM judgment?** Skip the AI output and go straight to the PROCESS.md files. Look at the decision each project requires *after* the AI finishes analysis — that's the real point of what this portfolio is showing.
 
 ---
 
@@ -42,7 +42,7 @@ Each project below is a fully documented AI-assisted case study, grounded in the
 ### Project Horizon — The Enterprise Prioritization Blueprint
 > *Solving the backlog bottleneck when everyone's priority is Priority One*
 
-A simulation of an AI-assisted WSJF (Weighted Shortest Job First) prioritization engine deployed against a flooded enterprise intake queue. Three competing epics — HL7 interoperability debt, AI revenue cycle optimization, and clinician UX — are scored, ranked, and sequenced into a PI-ready roadmap using structured prompt engineering and real-world healthcare IT constraints.
+A case study of an AI-assisted WSJF (Weighted Shortest Job First) prioritization engine deployed against a flooded enterprise intake queue. Three competing epics — HL7 interoperability debt, AI revenue cycle optimization, and clinician UX — are scored, ranked, and sequenced into a PI-ready roadmap using structured prompt engineering and real-world healthcare IT constraints.
 
 **Methodology:** SAFe · WSJF · Agile Sprint Planning · Prompt Engineering
 
@@ -96,11 +96,11 @@ The capstone of a four-project portfolio. An AI-assisted KPI governance and dash
 
 ## 📌 A Note on This Portfolio
 
-These projects are simulations built on publicly available information about real enterprise healthcare technology. They are not affiliated with any named organization. All data is mock data, constructed to reflect realistic operational constraints.
+These projects are case studys built on publicly available information about real enterprise healthcare technology. They are not affiliated with any named organization. All data is mock data, constructed to reflect realistic operational constraints.
 
 The AI tools used in this portfolio were directed, structured, and validated by me as the PM. Every framework choice, constraint definition, and output decision reflects deliberate product thinking — the AI is the engine; I am the architect.
 
-For more information on how I worked on each project, look at the PROCESS file, found at the top of each project's README page.
+For more information on how I worked on each project, look at the PROCESS file, found at the top of each project's README page. These pages are at the heart of this case study portfolio.
 For notes on working across multiple AI models — including how Claude, GPT, and Gemini compare on PM-relevant tasks — see [METHODOLOGY.md](./METHODOLOGY.md).
 
 ---
