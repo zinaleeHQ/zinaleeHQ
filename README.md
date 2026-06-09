@@ -96,7 +96,7 @@ The capstone of a four-project portfolio. An AI-assisted KPI governance and dash
 
 ## 📌 A Note on This Portfolio
 
-These projects are case studys built on publicly available information about real enterprise healthcare technology. They are not affiliated with any named organization. All data is mock data, constructed to reflect realistic operational constraints.
+These projects are case studies built on publicly available information about real enterprise healthcare technology. They are not affiliated with any named organization. All data is mock data, constructed to reflect realistic operational constraints.
 
 The AI tools used in this portfolio were directed, structured, and validated by me as the PM. Every framework choice, constraint definition, and output decision reflects deliberate product thinking — the AI is the engine; I am the architect.
 
