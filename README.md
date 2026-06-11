@@ -4,7 +4,9 @@
 
 I'm a strategic Product Manager with experience delivering technology solutions at the intersection of operations, data systems, and enterprise-scale process improvement. My background spans federal contracting, healthcare IT, and cross-functional product delivery in complex, compliance-driven environments.
 
-This cast study portfolio demonstrates how I use AI as a **managed strategic resource** — not a shortcut, but a force multiplier for the kind of rigorous, data-driven PM work that creates measurable business value. AI can be applied across core product management functions, with a focus on decision-making, risk awareness, and human-in-the-loop workflows. For this portfolio, we are working in the areas of prioritization, workflows, stakeholder communication, and operational intelligence.
+This case study portfolio demonstrates how I use AI as a **managed strategic resource** — not a shortcut, but a force multiplier for the kind of rigorous, data-driven PM work that creates measurable business value. AI can be applied across core product management functions, with a focus on decision-making, risk awareness, and human-in-the-loop workflows. For this portfolio, we are working in the areas of prioritization, workflows, stakeholder communication, and operational intelligence.
+
+This portfolio is also a work in progress. Next steps include tool prototypes for each project — [Vista's prototype is now complete](https://zinaleeHQ.github.io/project-vista/dashboard/) — with the remaining three projects to follow. A layer addressing AI governance and ethics is planned for a future iteration.
 
 ---
 
