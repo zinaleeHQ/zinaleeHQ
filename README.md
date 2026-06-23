@@ -6,6 +6,8 @@ I'm a strategic Program and Product Manager with experience delivering technolog
 
 This case study portfolio demonstrates how I use AI as a **managed strategic resource** — not a shortcut, but a force multiplier for the kind of rigorous, data-driven PM work that creates measurable business value. AI can be applied across core product management functions, with a focus on decision-making, risk awareness, and human-in-the-loop workflows. For this portfolio, we are working in the areas of prioritization, workflows, stakeholder communication, and operational intelligence.
 
+For a look at how I made decisions governing this portfolio, read the [Methodology page](https://github.com/zinaleeHQ/zinaleeHQ/blob/main/METHODOLOGY.md)
+
 This portfolio is also a work in progress. Next steps include tool prototypes for each project — [Vista's prototype is now complete](https://zinaleeHQ.github.io/project-vista/dashboard/) — with the remaining three projects to follow. A layer addressing AI governance and ethics is planned for a future iteration.
 
 ---
