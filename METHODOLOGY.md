@@ -4,44 +4,48 @@
 
 ---
 
-### Working Across Multiple AI Models
+## Where Product Management Ends
 
-In developing these projects, I worked across multiple AI systems — Claude, GPT, and Gemini — to evaluate how different models interpret the same product problems.
+Four projects, four sets of boundaries — a constraint matrix, a set of process guardrails, a stakeholder registry, an access-control model — and exactly one person accountable for making sure all four stayed consistent with each other: me. That's the actual edge of what product management covers. A program manager's job is making sure that discipline doesn't live in one person's head, project by project, but holds across every team, every tool, and every person using AI in an organization, whether or not they're thinking about governance at all — including the ones nobody's watching.
 
-Each model demonstrates distinct strengths:
+Everything below this line is the same instinct, shown at the scale I currently operate at. Read it as evidence for the claim above, not as four unrelated notes on process.
 
-*   **Claude** tends to produce structured, cautious, and highly organized outputs. It is particularly strong in maintaining clarity, following constraints, and supporting step-by-step reasoning.
-*   **GPT** is more expansive and exploratory. It often surfaces broader ideas, alternative approaches, and creative interpretations, which are useful in early-stage discovery and ideation.
-*   **Gemini** shows strength in synthesizing information across contexts and framing responses in a more "big picture" or systems-oriented way. It is particularly useful for connecting concepts, identifying patterns, and generating holistic perspectives across product, operational, and strategic domains. Gemini can sometimes prioritize breadth over precision, which makes it valuable for synthesis but important to validate in detail-sensitive contexts.
+---
 
-Working across these models allows for:
-*   Comparison of reasoning styles and output structure
-*   Identification of gaps, bias, or overconfidence
-*   More effective prompt refinement
-*   Better-informed decisions about which outputs to trust and why
+## Working Across Multiple AI Tools
 
-This approach reflects how AI is used in real-world environments: not as a single source of truth, but as a system that requires evaluation, triangulation, and human judgment — especially in complex and regulated domains like healthcare.
+The first version of that instinct is small and almost boring: picking the right tool for the job instead of defaulting to whichever one is already open. Vista is the clearest example — v0.dev built the interactive frontend, Claude worked as the system-architecture collaborator on the KPI taxonomy and governance model, Gemini handled deployment support. Three tools, three distinct jobs, none of them interchangeable with the others for the task it was doing.
 
-### Why Prompts Over Agentic AI
+I'll be direct about something: confident claims about how Claude, GPT, and Gemini each "think differently" age fast in this field, and a paragraph asserting fixed model personalities reads as dated within months. So the actual principle isn't a taxonomy — it's that I choose deliberately and verify regardless of which tool produced the output. That's a small, personal version of the same discipline the opening section is about. At one-person scale, "pick the right tool and check its work" is a habit. At organizational scale, it's a policy someone has to write down and enforce, because habits don't survive being handed to a hundred people who've never met each other face to face.
 
-While autonomous AI agents are a growing focus in technology, this portfolio intentionally utilizes structured prompting rather than agentic workflows. This choice is driven by two core principles of pragmatic product management:
+---
 
-*   **Cost-to-Value Efficiency:** Agentic AI introduces significant overhead. It requires complex data pipelines, continuous integration, and high token consumption as models iterate through multi-step processes. For many foundational product tasks, deploying an agentic framework is the equivalent of using a machine gun to knock over a tin can. 
-*   **The Power of Simple Tools:** Good product design favors the simplest tool that efficiently solves the problem. Structured prompts achieve high-utility results immediately, without the technical debt, maintenance costs, or setup friction of autonomous systems. 
+## Why Prompts, Not Agentic Workflows
 
-**Preserving the Judgment Layer**
+This is the same boundary-setting instinct again, just applied to architecture instead of tool choice. I didn't build this portfolio around autonomous agents, for two practical reasons.
 
-Beyond cost and complexity, prompts keep the human firmly in the loop. Autonomous agents excel at background automation, but they can obscure the decision-making process. Because these projects focus heavily on complex, high-risk domains like healthcare, maintaining absolute control over the input and output is critical. 
+Agentic systems carry real overhead — orchestration, token cost, complexity — and for most of what these four projects needed, that's more infrastructure than the actual problem calls for. Good tool selection matches the complexity of the solution to the complexity of the problem, not to how impressive the solution sounds.
 
-Structured prompting forces explicit pause points, allowing the Product Manager to review, validate, and apply human judgment before any action is taken. This approach ensures predictability, mitigates model hallucination, and keeps strategic oversight where it belongs: with the human.
+The second reason is the one that actually matters more: a structured prompt keeps a visible pause point built into the process, in a way an agent optimized to run end-to-end doesn't. Every prompt across all four projects stops before its final phase and waits for a human "yes." That pause is a boundary I set, deliberately, on every single project — which is exactly the kind of decision the opening section says doesn't yet exist at the organizational level. I can guarantee a pause point in a prompt I wrote myself. I can't yet guarantee one exists in every AI-assisted process across an entire org, and neither can most companies right now. That gap is the whole reason program-level governance is a real, unsolved problem and not a solved one wearing a fancier title.
 
-### Scope and Application
+---
 
-This portfolio is built around healthcare IT scenarios, but the frameworks, methodologies, and workflows are designed to be broadly applicable across industries and organizational contexts.
+## Scope and Application
 
-The four projects reflect core PM functions — prioritization, process design, stakeholder communication, and operational visibility — each demonstrating how AI can be applied in a structured, repeatable way while accounting for real-world constraints: risk, bias, and the need for human oversight.
+Every case study here is set in healthcare IT, but none of the frameworks are healthcare-specific — WSJF, DMAIC, stakeholder mapping, and KPI governance all travel cleanly to other regulated, complex environments. Healthcare just happens to have enough public documentation to build something realistic without touching anyone's proprietary data.
 
-A deliberate design choice throughout is showing where not to use AI. Many of the analytical tasks here could be further automated. The judgment layer (the pause points, the override decisions, the access boundary calls) is left to the PM intentionally.
+Worth naming directly: a fair amount of what's analytical in these projects could be automated further than I did here. That's deliberate. The pause points, the override calls, the access-boundary decisions stay with the PM on purpose, in every project — because that restraint, repeated four times, is the actual evidence behind the opening section's claim. I can point to four instances of choosing not to automate the judgment layer. What I can't yet point to is a mechanism that makes that same restraint the default for people who've never thought about it, which is probably a fair description of most real organizations.
 
-AI bias and governance is the next layer I plan to add to this work. Each project has decision points where model bias could influence real operational or financial outcomes. That analysis is in progress.
+---
 
+## Where This Actually Has to Go Next
+
+The gap in everything above: it's all still one person's discipline, applied project by project. Real governance has to work at every altitude of an organization at once — policy the C-suite signs off on, guardrails that engineers actually build against, and behavior at the level of an admin quietly using a chatbot to track filing, with nobody in the room who has thought about what that means.
+
+I'm not exempt from that last one, for what it's worth. I've used Gemini's Assistant on Google searches for work tasks outside of any sanctioned framework, the same as plenty of people reading this probably do. That's called "shadow AI", and naming my own use of it probably matters more than writing a policy that only describes other people's risk — because *the problem with shadow AI is that everyone doing it thinks of it as harmless*, including the people who'd write the policy against it.
+
+What closing that gap actually requires, eventually, is an acceptable-use policy that names which tools are sanctioned and which aren't, a monitoring layer that catches sensitive data leaving through an unsanctioned tool before it becomes a breach report, and — the part that's hardest to enforce and easiest to skip — training that reaches the admin using Gemini's Assistant, not just the engineers everyone assumes are the actual risk.
+
+That's the layer these four projects don't cover yet, and it's the next thing I want to build.
+
+*[Back to README](./README.md)*
