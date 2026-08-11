@@ -35,7 +35,7 @@ This isn't a portfolio of technical skill. AI can generate a workflow, score a b
 
 The AI handles the analysis. I handle what happens after.
 
-*(That line is doing a **little** more work than it looks like — [here's where the actual boundary sits, and where I'd take this next](https://github.com/zinaleeHQ/zinaleeHQ/blob/main/METHODOLOGY.md#where-product-management-ends).)*
+*(That line is doing a* little *more work than it looks like — [here's where the actual boundary sits, and where I'd take this next](https://github.com/zinaleeHQ/zinaleeHQ/blob/main/METHODOLOGY.md#where-product-management-ends).)*
 
 ---
 
