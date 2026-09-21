@@ -4,7 +4,7 @@ This repository contains the product documentation and deployment guidelines for
 
 ---
 
-## 👥 User Persona Analysis: The Target Demographics
+## User Persona Analysis: The Target Demographics
 
 Before diving into the build, it is critical to align on our primary end-users to ensure we achieve Product-Market Fit.
 
@@ -18,7 +18,7 @@ Before diving into the build, it is critical to align on our primary end-users t
 
 ---
 
-## 📋 Prerequisites & Material Sourcing
+## Prerequisites & Material Sourcing
 * **The Core Asset (Rope):** 100% cotton rope is our top choice for the "Mastication-Safe" feature set. 
   * *Form Factor:* Aim for a width of 1/4" to 7/32". 
   * *Scope Management:* Allocate **6–7 feet** for your initial run. While we can optimize resource utilization in V2, a generous resource buffer prevents a deficit during your first build.
@@ -31,7 +31,7 @@ Before diving into the build, it is critical to align on our primary end-users t
 
 ---
 
-## 🛠️ Step-by-Step Implementation Guide
+## Step-by-Step Implementation Guide
 
 ### Phase 1: Resource Provisioning & Initialization
 1. **Asset Segregation:** Wrap tape around your target cut point on the rope, then slice directly through the middle of the tape. This prevents the ends from fraying and breaking the build.
@@ -50,7 +50,7 @@ Before diving into the build, it is critical to align on our primary end-users t
 
 ---
 
-## 📈 Post-Launch Success Metrics (KPIs)
+## Post-Launch Success Metrics (KPIs)
 
 To validate the success of this deployment, the following product metrics should be monitored post-launch:
 
