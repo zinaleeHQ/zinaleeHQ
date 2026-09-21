@@ -48,6 +48,8 @@ Before diving into the build, it is critical to align on our primary end-users t
 8. **Iterative Optimization:** Start from the loop you are holding and systematically pull the slack through the knot, one loop at a time. Tug gently on the loop you’re working on to find its partner on the other side, pull the slack through, and repeat. *PM Tip: Maintain moderate, consistent tension. It is easy to iterate and tighten further later, but breaking a tight knot to fix a bug is highly inefficient.*
 9. **General Availability (GA) Launch:** Once all the excess slack is routed into a single long tail, your MVP is fully optimized. Tie it to an elevated anchor point or deploy it directly to the floor for immediate user testing.
 
+[Here's a Facebook video tutorial](https://www.facebook.com/sharH/r/1GDFyChnxP/)
+
 ---
 
 ## Post-Launch Success Metrics (KPIs)
