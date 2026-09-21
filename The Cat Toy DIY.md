@@ -1,10 +1,11 @@
 # Project Launch: Shipping the "Monkey’s Fist" Feline Enrichment MVP
 This repository contains the product documentation and deployment guidelines for a high-engagement, cost-effective feline toy. 
+
 ---## User Persona Analysis: The Target Demographics
 Before diving into the build, it is critical to align on our primary end-users to ensure we achieve Product-Market Fit.
-### 1. The High-Velocity Batter (Domestic Short Hair)* **Core Drivers:** Fast-moving objects, unpredictable kinetic trajectories, zero-latency feedback loops.* **Friction Points:** Easily distracted by random pieces of lint or cardboard boxes; prone to losing assets under the refrigerator.
-### 2. The Aggressive Masticator (The Chew-First-Ask-Questions-Later User)* **Core Drivers:** High tactile feedback, texture degradation, heavy material interaction.* **Friction Points:** Synthetic fibers cause low user satisfaction and potential safety hazards. Requires organic material sourcing.
----## Prerequisites & Material Sourcing* **The Core Asset (Rope):** 100% cotton rope is our top choice for the "Mastication-Safe" feature set. 
+# 1. The High-Velocity Batter (Domestic Short Hair)* **Core Drivers:** Fast-moving objects, unpredictable kinetic trajectories, zero-latency feedback loops.* **Friction Points:** Easily distracted by random pieces of lint or cardboard boxes; prone to losing assets under the refrigerator.
+# 2. The Aggressive Masticator (The Chew-First-Ask-Questions-Later User)* **Core Drivers:** High tactile feedback, texture degradation, heavy material interaction.* **Friction Points:** Synthetic fibers cause low user satisfaction and potential safety hazards. Requires organic material sourcing.
+---## Prerequisites & # Sourcing* **The Core Asset (Rope):** 100% cotton rope is our top choice for the "Mastication-Safe" feature set. 
   * *Form Factor:* Aim for a width of 1/4" to 7/32". 
   * *Scope Management:* Allocate **6–7 feet** for your initial run. While we can optimize resource utilization in V2, a generous resource buffer prevents a deficit during your first build.* **Fray Mitigation (Tape):** Any standard adhesive (Scotch, masking, or duct tape) to manage end-of-line stability.* **The Multitool (Scissors):** Small, blunt-tipped safety scissors are preferred. They serve a dual purpose: cutting the asset and acting as an "alignment awl" to tighten the product later.
 > [!WARNING]> **Risk Mitigation & Safety Protocol**> Tethered deployment introduces a low-probability but high-severity safety risk. If configuring the device for high-point suspension (e.g., a doorknob), ensure it is operated under active stakeholder supervision.
