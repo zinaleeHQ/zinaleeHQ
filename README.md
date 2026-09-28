@@ -2,7 +2,7 @@
 
 ### Program/Product Manager · AI-Augmented Operations · Technology
 
-Every one of the four case studies in this portfolio has a moment where an AI tool produced a correct, defensible, technically sound answer — and I overrode it anyway. A documentation update that mathematically deserved the #1 slot. A workflow redesign that was ready to ship except for a vendor feature that doesn't exist yet. Five stakeholder updates that all passed a consistency check and still weren't ready to send. That gap — between an output that's technically right and a decision that's actually good — is what this portfolio is built to show. The AI is the engine. I'm the one deciding where it drives.
+Every one of the four case studies in this portfolio shows an instance where an AI tool produced a correct, defensible, technically sound answer — and I overrode it. A documentation update that mathematically deserved the #1 slot...but not really. A workflow redesign that was ready to ship except for a vendor feature that doesn't exist yet and that they'll fight me on. Five stakeholder updates that all passed a consistency check and still weren't ready to send. Those gaps (between an output that's technically right and a decision that's actually good) is what this portfolio is built to show. The AI is the engine, but I'm the one at the wheel.
 
 I'm a Program and Product Manager with 10+ years delivering technology solutions across operations, data systems, and enterprise process improvement — including federal contracting, healthcare IT, and cross-functional delivery in compliance-heavy environments where the margin for error is thin and the stakeholders are many.
 
@@ -18,60 +18,60 @@ This is also a work in progress. [Vista's interactive prototype is live](https:/
 
 No GitHub account needed — click any blue filename to read it in your browser. Within each project, read README first, then PROCESS.md. If you want to run the actual prompt yourself, the copy-paste link is near the bottom of each project's page.
 
-If you're specifically evaluating judgment rather than output quality, skip straight to the PROCESS.md files. The AI's output isn't the point. What I did with it, after it finished, is.
+If you're specifically evaluating judgment rather than output quality, skip straight to the PROCESS.md files. The AI's output isn't the point. What I did with it, after AI finished what I asked it to do, is.
 
 ---
 
 ## ∴︎ What This Portfolio Is Actually Demonstrating
 
-This isn't a portfolio of technical skill. AI can generate a workflow, score a backlog, or draft five stakeholder emails faster than any PM could by hand — that part isn't in question anymore. What's still entirely a human's job is knowing when the generated answer is wrong, incomplete, or right for the wrong reasons. That's what each case study is actually testing.
+This isn't a portfolio of technical skill. AI can generate a workflow, score a backlog, or draft five stakeholder emails faster than any PM could by hand — that part isn't in question, in any way. What's still entirely a human's job is knowing when the generated answer is wrong, incomplete, or right for the wrong reasons (or wrong for the right reasons). That's what each of these case studies is actually testing.
 
-| Project | The Judgment Call That Mattered |
+| Project | The Judgment Calls |
 |---|---|
-| **Horizon** | A scoring engine ranked a documentation update #1, ahead of a compliance deadline — catching that, and knowing *why* it happened, mattered more than trusting the ranking |
-| **Clarity** | A redesigned workflow was technically deployable, but its best fix depended on a vendor feature that doesn't exist yet — the SOP was the easy part |
-| **Signal** | Five AI-drafted updates all passed a consistency check and still weren't ready to send, because none of them knew which stakeholder was already nervous |
-| **Vista** | Every access boundary is a judgment call about who gets to see a number without a person in the room to explain it — the dashboard is only trustworthy because someone made that call deliberately |
+| **Horizon** | A scoring engine ranked a documentation update #1, ahead of a compliance deadline — catching that, and knowing *why* it happened, mattered more than trusting the ranking. This is where an experienced PM matters more than speed. |
+| **Clarity** | A redesigned workflow was technically deployable, but its best fix depended on a vendor feature that doesn't exist yet — the SOP was the easy part, knowing how to get the vendor to add work to their PI is the hard part. |
+| **Signal** | Five AI-drafted updates all passed a consistency check and still weren't ready to send, because none of them knew which stakeholder was already nervous; onlyl a human PM can read the room. |
+| **Vista** | Every access boundary is a judgment call about who gets to see a number without a person in the room to explain it — the dashboard is only trustworthy because someone (spoiler: the PM) made that call deliberately. |
 
-The AI handles the analysis. I handle what happens after.
+The AI handles the analysis. I handle what happens after it's done.
 
-*(That line is doing a* little *more work than it looks like — [here's where the actual boundary sits, and where I'd take this next](https://github.com/zinaleeHQ/zinaleeHQ/blob/main/METHODOLOGY.md#where-product-management-ends).)*
+*(That line is doing a* little *more work than it looks like — [here's where the actual boundary is, and where I'd take this next](https://github.com/zinaleeHQ/zinaleeHQ/blob/main/METHODOLOGY.md#where-product-management-ends).)*
 
 ---
 
 ## Portfolio Projects
 
-Four fully documented case studies, grounded in the real technology architecture of a modern multi-site healthcare enterprise. Together, they move from deciding what to build, to changing how people actually work, to keeping every stakeholder aligned, to giving everyone self-service visibility without losing control of what that visibility means.
+Four fully documented case studies, grounded in the real technology architecture of a modern multi-site healthcare enterprise. (BTW, that healthcare enterprise exists, this was written off their publically available information.) Together, the case studies move from deciding what to build, to changing how people actually work, to keeping every stakeholder aligned, to giving everyone self-service visibility without losing control of what that visibility means.
 
 ### Project Horizon — The Enterprise Prioritization Blueprint
-*Twenty competing requests, one fixed sprint horizon, and a WSJF scoring engine that got three things wrong in ways worth documenting.*
+*Twenty competing requests, one fixed sprint horizon, and a WSJF scoring engine that got three things wrong in ways worth paying attention to.*
 
-An AI-assisted WSJF prioritization engine scores and ranks a flooded intake queue against hard resource and compliance constraints, sequences the results into a 3-sprint roadmap — and gets caught making the exact mistake WSJF is known for.
+An AI-assisted WSJF prioritization engine scores and ranks a flooded intake queue against hard resource and compliance constraints, sequences the results into a 3-sprint roadmap — and gets caught making the exact mistake WSJF is known for and that PMs with experience look for.
 
 **Methodology:** SAFe · WSJF · Agile Sprint Planning · Prompt Engineering
 
 [View Project Horizon →](https://github.com/zinaleeHQ/project-horizon)
 
 ### Project Clarity — Clinical Workflow Optimization Blueprint
-*Turning 200+ site-level workarounds into one standardized SOP — and finding out the cleanest fix in the redesign depends on someone else's roadmap.*
+*Turning 200+ site-level workarounds into one standardized SOP — and, oops, finding out the cleanest fix in the needed redesign depends on someone else's roadmap.*
 
-A Lean DMAIC analysis of a manual charge-entry workflow affecting 2,000+ distributed hospitalists. An AI engine classifies the friction against the Lean 8 Wastes framework and produces a deployment-ready SOP within a strict clinical-safety and zero-training-budget constraint set. Whether 2,000 skeptical clinicians actually adopt it is a different question than whether the SOP is correct.
+A Lean DMAIC analysis of a manual charge-entry workflow affecting 2,000+ distributed hospitalists. An AI engine classifies the friction against the Lean 8 Wastes framework and produces a deployment-ready SOP within a strict clinical-safety and zero-training-budget constraint set. Whether 2,000 skeptical clinicians actually adopt it is a different question (for the PM to answer) than whether the SOP is correct.
 
 **Methodology:** Lean · DMAIC · Value Stream Mapping · Change Management · Prompt Engineering
 
 [View Project Clarity →](https://github.com/zinaleeHQ/project-clarity)
 
 ### Project Signal — The Stakeholder Communication Engine
-*One source of truth, five audiences, and a consistency layer built specifically to stop two executives from comparing notes and finding a contradiction.*
+*One source of truth, five audiences, and a consistency layer built specifically to stop two executives from losing trust in the PM by comparing notes and finding a contradiction.*
 
-A single raw sprint-status dataset, including an active vendor API risk, feeds a structured prompt engine that generates five audience-appropriate communications at once: a CMO briefing, a CFO update, an engineering standup, a formal vendor escalation, and a field FAQ built to prevent unnecessary action rather than deliver information.
+A single raw sprint-status dataset, including an active vendor API risk, feeds a structured prompt engine that generates five audience-appropriate communications at once: a CMO briefing, a CFO update, an engineering standup, a formal vendor escalation, and a field FAQ built to prevent unnecessary action (and stress) rather than deliver information.
 
 **Methodology:** Stakeholder Management · Vendor Relations · Risk Communication · Executive Reporting · Prompt Engineering
 
 [View Project Signal →](https://github.com/zinaleeHQ/project-signal)
 
 ### Project Vista — The Operational Intelligence Dashboard
-*What happens once a PM stops standing between every number and the person reading it.*
+*What happens once a PM stops being the firewall between every number and the person reading it.*
 
 The capstone project. A KPI governance and dashboard design framework connects the outputs of the first three projects into one self-service visibility layer — audience-filtered access, mandatory context on every red metric, and a governance model built to keep a dashboard trustworthy long after the PM who designed it has moved on to something else.
 
@@ -100,7 +100,7 @@ These are case studies built from publicly available information about real ente
 
 Every AI tool used here was directed, checked, and validated by me. Every framework choice, every constraint value, every override decision reflects a call I made and can defend — not a default the AI reached on its own.
 
-The PROCESS.md file in each project is where that reasoning actually lives, more than the README. If you only have time for one document per project, read that one.
+The PROCESS.md file in each project is where that reasoning actually lives, more than the README. If you only have time for one document per project, read those PROCESS files.
 
 ---
 
@@ -115,6 +115,6 @@ Each project has a live page with a one-click **Copy Prompt** button — grabs t
 | Project Signal | [zinaleeHQ.github.io/project-signal](https://zinaleeHQ.github.io/project-signal/) |
 | Project Vista | [zinaleeHQ.github.io/project-vista](https://zinaleeHQ.github.io/project-vista/) |
 
-Every prompt pauses at a judgment checkpoint before its final phase. That pause is the point — the same one running through everything else in this portfolio.
+Every prompt pauses at a PM judgment checkpoint before its final phase. That pause is the point here, the same one running through everything else in this portfolio.
 
 *Portfolio built June 2026 · Open to PM and Program Management opportunities in healthcare, operations, and AI-augmented product delivery*
