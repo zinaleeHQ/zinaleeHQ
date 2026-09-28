@@ -2,7 +2,7 @@
 
 ### Program/Product Manager · AI-Augmented Operations · Technology
 
-Every one of the four case studies in this portfolio shows an instance where an AI tool produced a correct, defensible, technically sound answer — and I overrode it. A documentation update that mathematically deserved the #1 slot...but not really. A workflow redesign that was ready to ship except for a vendor feature that doesn't exist yet and that they'll fight me on. Five stakeholder updates that all passed a consistency check and still weren't ready to send. Those gaps (between an output that's technically right and a decision that's actually good) is what this portfolio is built to show. The AI is the engine, but I'm the one at the wheel.
+Every one of the four case studies in this portfolio shows an instance where an AI tool produced a correct, defensible, technically sound answer — and then I overrode it. A documentation update that mathematically deserved the #1 slot...but not really. A workflow redesign that was ready to ship except for a vendor feature that doesn't exist yet and that they'll fight me on. Five stakeholder updates that all passed a consistency check and still weren't ready to send. Those gaps (between an output that's technically right and a decision that's actually good) is what this portfolio is built to show. The AI is the engine, but I'm the one at the wheel.
 
 I'm a Program and Product Manager with 10+ years delivering technology solutions across operations, data systems, and enterprise process improvement — including federal contracting, healthcare IT, and cross-functional delivery in compliance-heavy environments where the margin for error is thin and the stakeholders are many.
 
